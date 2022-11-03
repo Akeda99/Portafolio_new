@@ -346,6 +346,7 @@ footer{
         gap:1rem;
         padding-left: 400px;
         padding-right: 100px;
+        margin-bottom: 25px;
         font-weight:400 ;
         position:fixed;
         width: 100%;
