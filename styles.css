@@ -281,12 +281,12 @@ footer{
     flex-direction: column;
     background-color: var(--black);
 
-    transform: translateX(-100%);
+    transform: translateX(0%);
     transition: transform 0.5s;
     font-weight:600;
 }
 .menu_show{
-    transform:translateX(0);
+    transform:translateX(-100%);
 }
 .icon_menu{
     display: block;
